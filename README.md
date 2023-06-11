@@ -13,7 +13,9 @@ Open to remote positions.
 *   ✉️  You can contact me at [hijuliansosa@gmail.com](mailto:hijuliansosa@gmail.com)
 *   🧠  I'm learning React, Angular, Javascript, Algorithms<a href="https://www.twitter.com/hijuliansosa" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/hijuliansosa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+                
+### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
