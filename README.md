@@ -11,9 +11,7 @@ Open to remote positions.
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [My Portfolio](http://hijuliancode.github.io/)
 *   ✉️  You can contact me at [hijuliansosa@gmail.com](mailto:hijuliansosa@gmail.com)
-*   🧠  I'm learning React, Angular, Javascript, Algorithms<a href="https://www.twitter.com/hijuliansosa" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/hijuliansosa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+*   🧠  I'm learning React, Angular, Javascript, Algorithms
                 
 ### Skills 
 <p align="left">
