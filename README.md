@@ -8,7 +8,7 @@ As a Frontend Developer with over eight years of experience, I have honed my ski
 
 Open to remote positions.
 
-*   🌍  I'm based in New York
+*   🌍  I'm based in Bogotá, Colombia
 *   🖥️  See my portfolio at [My Portfolio](http://hijuliancode.github.io/)
 *   ✉️  You can contact me at [hijuliansosa@gmail.com](mailto:hijuliansosa@gmail.com)
 *   🧠  I'm learning React, Angular, Javascript, Algorithms
